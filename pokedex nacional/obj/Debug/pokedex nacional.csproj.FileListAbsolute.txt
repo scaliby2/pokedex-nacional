@@ -1,0 +1,11 @@
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\bin\Debug\pokedex nacional.exe.config
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\bin\Debug\pokedex nacional.exe
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\bin\Debug\pokedex nacional.pdb
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex nacional.csproj.AssemblyReference.cache
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex nacional.csproj.SuggestedBindingRedirects.cache
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex_nacional.Form1.resources
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex_nacional.Properties.Resources.resources
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex nacional.csproj.GenerateResource.cache
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex nacional.csproj.CoreCompileInputs.cache
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex nacional.exe
+C:\Users\joses\source\repos\pokedex nacional\pokedex nacional\obj\Debug\pokedex nacional.pdb
